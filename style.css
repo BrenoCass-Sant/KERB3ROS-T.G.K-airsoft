@@ -156,6 +156,7 @@ footer {
     background-color: #C6AC8F;
     padding: 1vh;
     margin: 0.5;
+    height: 13vh;
   }
   header .header_menu {
     display: flex;
